@@ -32,7 +32,7 @@ interactive dashboards.
 Analyzed 3,900+ customer records to uncover shopping trends, loyalty
 segments, and revenue drivers. Built an end-to-end pipeline using Python,
 MySQL, and Power BI.
-→ [View Repository](#)
+→ [https://github.com/AtulTiwary-0001/Customer_shopping_behavior_and_trends_Analysis](#)
 
 ## 📫 Let's Connect
 
